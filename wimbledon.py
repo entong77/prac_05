@@ -42,4 +42,4 @@ def get_records(filename):
             records.append(parts)
     return records
 
-main()
+    main()
